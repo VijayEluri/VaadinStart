@@ -43,4 +43,5 @@
       <attribute value="jar:file:/C:/Users/raupach/.m2/repository/org/apache/commons/commons-math/2.2/commons-math-2.2-javadoc.jar!/" name="javadoc_location"/>
     </attributes>
   </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/cc/raupach/HelloProject/0.0.1-SNAPSHOT/HelloProject-0.0.1-SNAPSHOT.jar"/>
 </classpath>
