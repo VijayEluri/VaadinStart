@@ -10,7 +10,6 @@
 
     <properties>
         <platform.version>2.3.3</platform.version>
-        <android.sdk.path>C:\Users\raupach\AppData\Local\Android\android-sdk</android.sdk.path>
     </properties>
 
     <dependencies>
@@ -27,13 +26,13 @@
         	<type>jar</type>
         	<scope>compile</scope>
         </dependency>
-         <dependency>
+        <!--  <dependency>
          	<groupId>cc.raupach</groupId>
   			<artifactId>HelloProject</artifactId>
   			<version>0.0.1-SNAPSHOT</version>
   			<type>jar</type>
         	<scope>compile</scope>
- 		 </dependency>
+ 		 </dependency> -->
     </dependencies>
 
     <build>

@@ -2,11 +2,11 @@ package cc.raupach.android;
 
 import org.apache.commons.math.util.BigReal;
 
-import cc.raupach.hello.Hello;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
+
+
 
 public class HelloAndroidActivity extends Activity
 {
@@ -27,8 +27,8 @@ public class HelloAndroidActivity extends Activity
       BigReal sd = BigReal.ONE;
       Log.i(TAG, "onCreate "+sd.toString());
       
-      Hello h = new Hello();
-      Log.i(TAG, "onCreate :"+h.world());
+//      Hello h = new Hello();
+//      Log.i(TAG, "onCreate :"+h.world());
       setContentView(R.layout.main);
    }
 
